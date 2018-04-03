@@ -1,3 +1,3 @@
 
-def Bathroom_Stalls(n):
-    return
+def Bathroom_Stalls(n, k):
+    
